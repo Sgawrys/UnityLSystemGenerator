@@ -27,7 +27,7 @@ Check out [L-System](http://www.stefangawrys.com/LSystem/LSystem.html) for an ex
 ##Screenshots
 
 First:
-![alt text](https://github.com/Sgawrys/UnityLSystemGenerator/tree/master/images/example1.png "First Screenshot")
+![alt text](https://github.com/Sgawrys/UnityLSystemGenerator/raw/master/images/example1.png "First Screenshot")
 
 Second:
-![alt text](https://github.com/Sgawrys/UnityLSystemGenerator/tree/master/images/example2.png "Second Screenshot")
+![alt text](https://github.com/Sgawrys/UnityLSystemGenerator/raw/master/images/example2.png "Second Screenshot")
