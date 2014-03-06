@@ -12,6 +12,14 @@ What are L-Systems? [Check it out here](http://en.wikipedia.org/wiki/L-system)
 Once you have the script files in whatever project you want L-Systems to appear in, just go through Unity's menu system:
 GameObject->Create Other...->L-System... and follow the onscreen instructions from the wizard to create your very own system on screen.
 
+When creating rules:
+Use letters for variables,
+'+' and '-' stand for turn 90 degrees clockwise and counterclockwise,
+'[' and ']' stand for pushing and popping the current state to the stack.
+
+Example rule: 
+F>F+F-F-F+F
+
 ##Known Issues
 
 * LSystemPainter is not completed yet, only outputs the L-System using Debug.DrawLine.
